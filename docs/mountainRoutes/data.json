@@ -29,7 +29,7 @@
                     "type": "route",
                     "name": "Monte Cerro El Piquero",
                     "images": [
-                        "https://uo271588.github.io/poi-quick-app-implementations/sample/images/cerropiquero.jpg"
+                        "https://github.com/UO271588/poi-quick-app-implementations/blob/main/docs/mountainRoutes/images/cerropiquero.jpg?raw=true"
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
@@ -43,7 +43,7 @@
                     "type": "route",
                     "name": "Taballon del Mongayu",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/tabayondelmongayu.jpg"
+                        "https://github.com/UO271588/poi-quick-app-implementations/blob/main/docs/mountainRoutes/images/tabayondelmongayu.jpg?raw=true"
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
