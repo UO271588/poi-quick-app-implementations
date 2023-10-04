@@ -49,7 +49,22 @@
                     "more": "More description, if you want",
                     "urls": [
                     ]
+                },
+                {
+                    "id": "mountainRoute-3",
+                    "lat": "43.1122807",
+                    "lon": "-5.3002053",
+                    "type": "route",
+                    "name": "Canto el Oso",
+                    "images": [
+                        "https://github.com/UO271588/poi-quick-app-implementations/blob/main/docs/mountainRoutes/images/tabayondelmongayu.jpg?raw=true"
+                    ],
+                    "description": "One-paragraph description",
+                    "more": "More description, if you want",
+                    "urls": [
+                    ]
                 }
+                
             ]
         }
     }
